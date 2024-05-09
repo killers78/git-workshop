@@ -31,8 +31,4 @@ Para mais informações sobre stash: https://git-scm.com/docs/git-stash
 
 --- 
 
-<<<<<<< Updated upstream
 Podemos seguir para a próxima aula na branch `lesson-9`.
-=======
-Podemos seguir para a próxima aula na branch `lesson-8`.
->>>>>>> Stashed changes
